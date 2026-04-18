@@ -1,22 +1,28 @@
-Goodreads Dataset Analysis
-This folder contains visualizations generated from the Goodreads books dataset using the autolysis.py script.
-Charts Included
-Average Rating Distribution
+# Goodreads Dataset Analysis
 
-Shows how book ratings are distributed across the dataset.
-Ratings Count Distribution
+This folder contains visualizations generated from the Goodreads dataset using the autolysis.py script.
 
-Displays how many ratings books receive.
+## Average Rating Distribution
+![Average Rating](average_rating_hist.png)
 
+Shows the distribution of average ratings of books in the dataset.
 
+## Books Count Distribution
+![Books Count](books_count_hist.png)
 
-Books Count Distribution
+Represents the distribution of the number of books written by authors.
 
-Shows the distribution of the number of books associated with authors.
-Correlation Matrix
+## Ratings Count Distribution
+![Ratings Count](ratings_count_hist.png)
 
-Shows relationships between numerical features such as ratings, reviews, and book counts.
-Summary
-The analysis highlights trends in book popularity and rating behavior within the Goodreads dataset.
- 
+Displays how many ratings books receive from readers.
+
+## Correlation Matrix
+![Correlation Matrix](correlation_matrix.png)
+
+Shows relationships between numerical variables such as ratings, reviews, and book counts.
+
+## Summary
+
+The analysis highlights trends in book ratings, popularity, and relationships between different book-related metrics in the Goodreads dataset.
 
