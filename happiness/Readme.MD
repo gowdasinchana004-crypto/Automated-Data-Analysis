@@ -8,17 +8,17 @@ This folder contains visualizations generated from the World Happiness dataset u
 Represents the distribution of happiness scores across countries.
 
 ## Log GDP per Capita
-![GDP](Log GDP per capita_hist.png)
+![GDP](Log_GDP_per_capita_hist.png)
 
 Shows the relationship between economic prosperity and happiness levels.
 
 ## Healthy Life Expectancy
-![Health](Healthy life expectancy at birth_hist.png)
+![Health](Healthy_life_expectancy_at_birth_hist.png)
 
 Displays how life expectancy contributes to happiness.
 
 ## Social Support
-![Social Support](Social support_hist.png)
+![Social Support](Social_support_hist.png)
 
 Represents the importance of social connections in determining happiness.
 
