@@ -8,7 +8,7 @@ This folder contains visualizations generated from the Media dataset using the a
 Shows the distribution of overall ratings for media items.
 
 ## Rating Distribution
-![Rating](ratings_1__hist.png)
+![Rating](rating_hist.png)
 
 Represents how ratings are distributed among users.
 
