@@ -1,16 +1,23 @@
-Media Reviews Dataset Analysis
-This folder contains visualizations generated from the Media Reviews dataset using the autolysis.py script.
-Charts Included
-Overall Rating Distribution
+# Media Dataset Analysis
 
-Displays how overall ratings are distributed across media reviews.
-Rating Distribution
+This folder contains visualizations generated from the Media dataset using the autolysis.py script.
 
-Shows the spread of ratings provided by users.
+## Overall Rating Distribution
+![Overall Rating](overall_hist.png)
 
-Quality Distribution
+Shows the distribution of overall ratings for media items.
 
-Represents the perceived quality levels of media items.
-Summary
-The analysis provides insights into rating patterns and quality perception within the media reviews dataset.
+## Rating Distribution
+![Rating](ratings_1__hist.png)
+
+Represents how ratings are distributed among users.
+
+## Quality Distribution
+![Quality](quality_hist.png)
+
+Displays the perceived quality levels of media items.
+
+## Summary
+
+The analysis provides insights into rating patterns and quality perception of media items in the dataset.
 
